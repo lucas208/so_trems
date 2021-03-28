@@ -25,8 +25,6 @@ private slots:
 
     void on_pushButton_2_clicked();
 
-    void slider_velocidade();
-
     void on_Velo1_valueChanged(int value);
 
     void on_Velo2_valueChanged(int value);

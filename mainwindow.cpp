@@ -1,6 +1,5 @@
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
-#include <iostream>
 
 MainWindow::MainWindow(QWidget *parent) :
     QMainWindow(parent),
@@ -63,20 +62,11 @@ MainWindow::~MainWindow()
  */
 void MainWindow::on_pushButton_clicked()
 {
-    slider_velocidade();
     trem1->start();
     trem2->start();
     trem3->start();
     trem4->start();
     trem5->start();
-}
-
-void MainWindow::slider_velocidade(){
-    std::cout << (ui->Velo1->tickInterval()) << std::endl;
-    std::cout << (ui->Velo2->tickInterval()) << std::endl;
-    std::cout << (ui->Velo3->tickInterval()) << std::endl;
-    std::cout << (ui->Velo4->tickInterval()) << std::endl;
-    std::cout << (ui->Velo5->tickInterval()) << std::endl;
 }
 /*
  * Ao clicar, trens param execução

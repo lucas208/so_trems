@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.11.0, 2021-03-26T01:10:32. -->
+<!-- Written by QtCreator 4.11.0, 2021-03-28T02:01:42. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -285,8 +285,9 @@
     </valuelist>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/mnt/9ecfa94e-0079-4600-bfce-b15c5975614d/UFRN/4° Semestre/SO/Código QT5 Ubuntu - Trem/Trem.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/mnt/9ecfa94e-0079-4600-bfce-b15c5975614d/UFRN/4° Semestre/SO/Código QT5 Ubuntu - Trem/Trem.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Trem2</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/mnt/9ecfa94e-0079-4600-bfce-b15c5975614d/UFRN/4° Semestre/SO/Semafóros e Mutex/Trem.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/mnt/9ecfa94e-0079-4600-bfce-b15c5975614d/UFRN/4° Semestre/SO/Semafóros e Mutex/Trem.pro</value>
     <value type="QString" key="RunConfiguration.Arguments"></value>
     <value type="bool" key="RunConfiguration.Arguments.multi">false</value>
     <value type="QString" key="RunConfiguration.OverrideDebuggerStartup"></value>
